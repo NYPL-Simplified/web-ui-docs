@@ -7,9 +7,9 @@ import { linkTo } from '@storybook/addon-links';
 storiesOf('Welcome', module)
   .add('introduction', () => 
     <div>
-      <h2>NYPL Simplified Reusable Components</h2>
+      <h2>Library Simplified UI Components</h2>
       <p>
-        Welcome to the documentation for components used in various SimplyE web apps.
+        Welcome to the documentation for high-level components used in various SimplyE web apps.
       </p>
     </div>,
     {

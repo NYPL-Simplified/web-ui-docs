@@ -1,10 +1,10 @@
 {
   "name": "storybook-starter",
   "version": "0.0.1",
-  "description": "Typescript Storybook Stater",
+  "description": "Library Simplified UI Documentation",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NYPL/storybook-starter.git"
+    "url": "https://github.com/NYPL-Simplified/web-ui-docs"
   },
   "main": "dist/index.js",
   "author": "NYPL",
